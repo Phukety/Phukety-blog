@@ -41,7 +41,11 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
+excerpt_description: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 highlight:
@@ -103,7 +107,7 @@ layout: tweet
 aomori_logo: /images/avatar.jpg
 aomori_logo_typed_animated: true
 aomori_menu:
-  Home: /
+  Home: /  
 aomori_widgets:
   - toc # 文章导航
   - category  #文章分类
