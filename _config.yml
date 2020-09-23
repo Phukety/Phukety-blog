@@ -124,5 +124,5 @@ aomori_busuanzi: true
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://Phukety:Ybwdnf5608302.@github.com/Phukety/Phukety.github.io.git
+  repo: https://5949e33f72ec1418735646bf4c13a1227edfe597@github.com/Phukety/Phukety.github.io.git
   branch: master
