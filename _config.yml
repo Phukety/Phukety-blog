@@ -46,7 +46,7 @@ excerpt_description: true
 marked:
   prependRoot: true
   postAsset: true
-relative_link: false
+relative_link: true
 future: true
 highlight:
   enable: false
