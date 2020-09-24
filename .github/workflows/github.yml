@@ -26,6 +26,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: git config --global user.name "yuanbw"
     - run: git config --global user.email "1252615137@qq.com"
-    - run: sed -i 's/USER:PASSWORD/${{USER}}:${{PASSWORD}}/' _config.yml
+    - run: sed -i 's/USER:PASSWORD/${{secrets.USER}}:${{secrets.PASSWORD}}/' _config.yml
     - run: npm install 
     - run: npm run deploy
