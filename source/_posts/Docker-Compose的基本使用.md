@@ -1,14 +1,15 @@
 ---
 title: Docker-Compose的基本使用
 date: 2020-09-24 20:48:46
-cover: docker.jpg
+cover: images/docker.jpg
 photos: 
-  - docker.jpg
+  -  images/docker.jpg
 categories: 
   - 容器技术
 tags: 
   - [docker,docker-compose]
 ---
-### 本文主要介绍docker-compose的简单用法以及demo
+本文主要介绍docker-compose的简单用法以及demo
+<!--more-->
 ![](docker.jpg)
 
