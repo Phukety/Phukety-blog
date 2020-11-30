@@ -7,7 +7,8 @@ photos:
 categories: 
   - 容器技术
 tags: 
-  - [docker]
+  - docker
+  - 文章
 ---
 本文主要介绍docker的一些常用命令
 <!--more -->

@@ -2,7 +2,9 @@
 layout: tweet
 title: awk
 date: 2020-10-28 21:59:21
-tags: ['linux']
+tags: 
+  - linux
+  - 学习笔记
 ---
 
 AWK 是一种处理文本文件的语言

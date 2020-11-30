@@ -2,7 +2,9 @@
 layout: tweet
 title: System.exit()
 date: 2020-10-28 23:00:01
-tags: ['java']
+tags: 
+  - java
+  - 学习笔记
 ---
 
 System.exit(int  status)这个方法是用来结束当前正在运行中的java虚拟机。
